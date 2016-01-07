@@ -96,7 +96,7 @@ salute : 敬礼
 broaden : 变宽  
 divorce : 离婚  
 assure : 使确信  
-soar : 骤然上升
+soar : 骤然上升  
 hardship : 困难  
 fulfill : 达到  
 afterward : 后来
